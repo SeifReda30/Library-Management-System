@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591366151 source:e:\seif\projects\pl 1\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
